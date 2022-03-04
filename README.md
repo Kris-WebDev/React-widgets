@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About the This Project
 
-**This Project was a Class Project from UDEMY**
+**This Project was a Class Project from UDEMY** \
 is it a demo for creating widgets, navigation bar and simple API call
 
 ## Available Scripts
