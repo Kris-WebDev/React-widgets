@@ -1,7 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Its a Class project from UDEMY
+
+## About the This Project
+
+**This Project was a Class Project from UDEMY**
+is it a demo for creating widgets, navigation bar and simple API call
 
 ## Available Scripts
 
